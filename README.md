@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me
+ I am a hobbyist programmer, I prefer using C++, but I am fluent in C, Python, etc. I like backend, systems, and parallel programming. I have experience with Vulkan, OpenGL, and virtual reality. My current main project is Basalt, a rewrite of my old Vinegar Engine to use a job system, parallelism, Vulkan, and better design choices. I have been proficient in C++ for about 3-4 years now. I develop on both Windows and Linux, and focus on code readability when writing. I am hoping to get involved in more collaborative projects and such. Currently looking for a programming internship for the summer to gain production experience in C/C++ software development if possible.
 
 <!--
 **PyroFlareX/PyroFlareX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
