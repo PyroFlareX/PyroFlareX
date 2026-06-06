@@ -1,16 +1,12 @@
-### About Me
- I am a hobbyist programmer, I prefer using C++, but I am fluent in C, Python, etc. I like backend, systems, and parallel programming. I have experience with Vulkan, OpenGL, and virtual reality. My current main project is Basalt, a rewrite of my old Vinegar Engine to use a job system, parallelism, Vulkan, and better design choices. I have been proficient in C++ since 2019. I develop on both Windows and Linux, and focus on code readability when writing.
-<!--
-**PyroFlareX/PyroFlareX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hardware, Software, and Systems Engineer. I prefer C++, but I'm fluent in C, Python, Rust, etc. I like backend, systems, and parallel programming, and I build across the whole stack — from hardware up to the software that runs on it. Been working more with custom embedded systems, and I love making stuff that no one has seen before. I can't share all of it, but take a look!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+- **Project Minerva** — a handheld cyberdeck built around the Raspberry Pi Compute Module 5 in a clamshell form factor. Custom carrier board (KiCad), dual MIPI DSI displays, and a custom Wayland compositor + shell designed for controller-native input.
+- **The Long Century** — a Victoria 2-inspired grand strategy game in C++/OpenGL, with AngelScript scripting for mods, a Dear ImGui interface, and a Rust matchmaking server.
+- **AI Automation** — self-hosted LLM agents and automation pipelines running on my own infrastructure.
+- **Linux Everything** — Linux as a daily driver, custom desktop setups, gaming and emulation, and a self-hosted homelab.
+
+I develop on both Windows and Linux, and focus on code readability when writing.
